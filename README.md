@@ -12,4 +12,4 @@ The following project will have implementations of these following data-structur
 - [ ] ArrayList
 - [ ] Hash Table
 
-The project will be done in a mix of Python and Java, (possibly C).
+The project will be done in a mix of Python and Java, and C.
