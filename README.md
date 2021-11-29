@@ -3,7 +3,7 @@ Linked Lists, Trees, Tries, Graphs, Stacks, Queues, Heaps, ArrayLists, and Hash 
 
 The following project will have implementations of these following data-structures for future reference:
 - [X] Linked List
-- [ ] Binary Search Tree
+- [X] Binary Search Tree
 - [ ] Graph
 - [ ] Tries
 - [ ] Stack
