@@ -9,7 +9,7 @@ The following project will have implementations of these following data-structur
 - [ ] Stack
 - [ ] Queue
 - [ ] Heap
-- [ ] ArrayList
+- [X] ArrayList
 - [ ] Hash Table
 
 The project will be done in a mix of Python and Java, and C.
