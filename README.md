@@ -6,7 +6,7 @@ The following project will have implementations of these following data-structur
 - [X] Binary Search Tree
 - [ ] Graph
 - [ ] Tries
-- [ ] Stack
+- [X] Stack
 - [ ] Queue
 - [ ] Heap
 - [X] ArrayList
