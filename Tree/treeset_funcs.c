@@ -2,7 +2,7 @@
  * File Name: treeset_funcs.c
  * The following C file consist of functions that used within the treeset_main program.
  * The functions here operate on a binary search tree with unique strings.
- * @author Andrew Hoyle
+ * @author Andy
  * @since 11/15/2021
  */
 
