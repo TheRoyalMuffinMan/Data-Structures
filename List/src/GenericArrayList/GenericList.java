@@ -8,7 +8,7 @@ package GenericArrayList;
    * maximums and minimums and determining if two list equal to each other.
    * Finally, a method to print out the contents of the 
    * list is included.
-   * @author Andrew Hoyle
+   * @author Andy
    * @since 11/28/2021
 */
 
