@@ -2,7 +2,7 @@ package GenericArrayList;
 /**
    * <h1> Generic List Main <h1>
    * The following class is just used to showcase the GenericList class.
-   * @author Andrew Hoyle
+   * @author Andy
    * @since 11/28/2021 
  */
 
