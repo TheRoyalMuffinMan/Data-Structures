@@ -2,7 +2,7 @@
  * File Name: treeset_main.c
  * The following C file is the main function for the treeset package. Main will invoke
  * function calls from treeset_funcs.c that will depend on the input from the user.
- * @author Andrew Hoyle
+ * @author Andy
  * @since 11/15/2021
  */
  
