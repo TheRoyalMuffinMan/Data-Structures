@@ -7,7 +7,7 @@ The following project will have implementations of these following data-structur
 - [ ] Graph
 - [ ] Tries
 - [X] Stack
-- [ ] Queue
+- [X] Queue
 - [ ] Heap
 - [X] ArrayList
 - [ ] Hash Table
