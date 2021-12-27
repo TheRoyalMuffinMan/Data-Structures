@@ -66,7 +66,7 @@ class Stack:
         if self.length() == 0:
             return f"{self.__class__.__name__}(top={None}, len={self.length()})"
         else:
-            return f"{self.__class__.__name__}(top={None}, len={self.length()})"
+            return f"{self.__class__.__name__}(top={self.peek()}, len={self.length()})"
 
     def __str__(self):
         if self.length() == 0:
