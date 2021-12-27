@@ -21,8 +21,8 @@ class Stack:
             self.item = item
             self.next = next
     
-    def __init__(self, item = ""):
-        self.stack = self.Node(item)
+    def __init__(self):
+        self.stack = self.Node("")
         self.size = 0
 
     # Push operation, pushes the item to the top of the stack.
