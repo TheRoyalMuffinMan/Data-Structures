@@ -12,7 +12,7 @@ package GenericArrayList;
    * @since 11/28/2021
 */
 
-public class GenericList<T extends Comparable<T>> {
+public class GenericList<T> extends Comparable<T>> {
 	private T[] items;
 	// Current number of elements placed into the array
 	private int size;
